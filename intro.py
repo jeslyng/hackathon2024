@@ -1,3 +1,5 @@
+from manim import *
+
 class Lore(Scene):
     def construct(self):
         text1 = Text("Visualizing WashU Shuttles",font_size=65)
