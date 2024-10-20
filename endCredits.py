@@ -1,3 +1,5 @@
+from manim import *
+
 class EndCredits(Scene):
     def construct(self):
         text1 = Text("Credits:")
